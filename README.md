@@ -1,6 +1,6 @@
 # smFRET-Quickstart-Guide
 
-We provide a full package of single-molecule FRET experiment. 
+We provide a full package we use in our single-molecule FRET experiments. 
 
 Including: Data Acquisition, Raw Data Analysis, and User Friendly Data Viewer.
 
